@@ -14,8 +14,9 @@
 - Write a code that creates a form.
 
 - Create the same picture you see below using HTML/CSS codes, Your final result should look very close to this mockup.
+- 
+![hc-cc-01](https://user-images.githubusercontent.com/63124871/167399562-35960a96-e104-4753-b62c-ae765eb2c1cb.png)
 
-<img src="./assignment.png" height="500 px"/>
 <br>
 
 ## Objective
