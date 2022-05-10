@@ -4,6 +4,14 @@
     box-sizing: border-box;
 }
 
+body {
+    height: 100vh;
+}
+
+form {
+    height: 100%;
+}
+
 h1 {
     font-size: 70px;
     margin-top: 0px;
@@ -20,3 +28,20 @@ input, select {
     display: block;
 }
 
+div.radio input, div.checkbox input{
+    display: inline;
+}
+
+#textarea {
+    border: 1px solid black;
+}
+
+div textarea {
+   overflow-y: scroll;
+}
+
+div #submit {
+    display: inline;
+}
+
+div:nth-child(1)
