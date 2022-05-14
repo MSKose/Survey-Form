@@ -37,7 +37,7 @@ div.radio input, div.checkbox input{
 }
 
 div textarea {
-   overflow-y: scroll;
+   overflow-y: scroll ;
 }
 
 div #submit {
